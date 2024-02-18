@@ -19,7 +19,7 @@ Welcome to the Social Network Analysis Tool! This tool allows you to create and 
 
 ## Sample Input
 
-Here's a sample input sequence you can provide to interact with the tool:
+Here's a sample input sequence you can provide to interact with the tool:<br>
 1<br>
 Krintox<br>
 1<br>
