@@ -20,20 +20,20 @@ Welcome to the Social Network Analysis Tool! This tool allows you to create and 
 ## Sample Input
 
 Here's a sample input sequence you can provide to interact with the tool:
-1
-Krintox
-1
-Shashank
-1
-Suggala
-3
-Krintox Shashank
-3
-Krintox SUggala
-3
-Shashank Suggala
-5
-6
+1<br>
+Krintox<br>
+1<br>
+Shashank<br>
+1<br>
+Suggala<br>
+3<br>
+Krintox Shashank<br>
+3<br>
+Krintox SUggala<br>
+3<br>
+Shashank Suggala<br>
+5<br>
+6<br>
 
 This sequence adds three users (Krintox, Shashank, and Suggala), forms friendships between them, analyzes the followers count, and then exits the program.
 
